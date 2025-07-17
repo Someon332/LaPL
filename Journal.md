@@ -38,4 +38,7 @@ Also, I spent some more time worrying about the connection from the wired camera
 
 Time spent: 3 hrs
 
+The wireless camera mount model:
+
+
 <img width="905" height="607" alt="image" src="https://github.com/user-attachments/assets/f436b7a0-0e9a-42d0-98d6-a06907b9b6a0" />
