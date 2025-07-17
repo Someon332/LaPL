@@ -1,3 +1,10 @@
+---
+title: LaPL: Laser Passthrough Lenses
+author: Tanzimul Emam
+description: Passthrough goggles meant to make working with high powered lasers cheaper and safer!
+created_at: 6/13/25
+---
+
 6/13: 
 
 Created a google doc with project goals and found the parts and headset that would work with my budget. I spent some time googling trying to figure out how to connect the Runcam Nano to the headset (RCA to AV adapter) and thinking through how I would power everything. 
