@@ -1,8 +1,12 @@
 --
-title: LaPL: Laser Passthrough Lenses
-author: Tanzimul Emam
-description: Passthrough goggles meant to make working with high powered lasers cheaper and safer!
-created_at: 6/13/25
+Title: LaPL: Laser Passthrough Lenses
+
+Author: Tanzimul Emam
+
+Description: Passthrough goggles meant to make working with high powered lasers cheaper and safer!
+
+Created at: 6/13/25
+
 --
 
 6/13: 
