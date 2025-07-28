@@ -7,7 +7,7 @@ Description: Passthrough goggles meant to make working with high powered lasers 
 
 Created at: 6/13/25
 
-
+Total Time: 9.5 hrs
 
 6/13: 
 
