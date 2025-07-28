@@ -17,5 +17,11 @@ BOM:
 |RCA to AV Adapter|$5.33|https://www.amazon.com/Adapter-Video-Component-Cable-Replacement/dp/B08NV48MHP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A27H62YKOAOIF7&gQT=1|
 |RunCam FPV Camera|$23.52|https://www.amazon.com/RunCam-Camera-800TVL-Switchable-Quadcopter/dp/B08M38C1DM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1CA0481MF6RWW&gQT=2|
 |WT03 VTX|$32.09|https://www.amazon.com/Wolfwhoop-Adjustable-Transmitter-Cloverleaf-Aircraft/dp/B06XB2ZRBP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1738MU39IWURM&gQT=1|
+|LiPO|Already Own|N/A|
+|Wires|Already Own|N/A|
+
 
 Prices with tax as of 7/28/25
+
+Connections:
+Connect a LiPO Battery to the wireless VTX and connect the wired camera to the RCA to AV adapter (yellow is data, black is ground, power camera seperately through red cable)
