@@ -8,7 +8,7 @@ Another area in which traditional laser safety goggles are limited is when worki
 
 In these cases, cameras are often utilized to safely work with the lasers, however it can be cumbersome without a dedicated system or only work remotely. 
 
-This project is a proof of concept for LaPL, Laser Passthrough Lenses that fully cover they eyes and use cameras mounted on a headset to stream POV video onto screen mounted near the eyes, similar to a VR headset. This uses FPV goggles and 3D printed mounts for both a head and wireless camera system, however a future version will use specifically designed housings, PCBs, and mounts. This project is simply to test whether a headset style laser goggle is comfortable, easy, and intuitive to work with over trasitional laser glasses using a cheap FPV headset and mid-tier FPV cameras. 
+I made this project as a proof of concept for LaPL, Laser Passthrough Lenses that fully cover they eyes and use cameras mounted on a headset to stream POV video onto screen mounted near the eyes, similar to a VR headset. This uses FPV goggles and 3D printed mounts for both a head and wireless camera system, however a future version will use specifically designed housings, PCBs, and mounts. This project is simply to test whether a headset style laser goggle is comfortable, easy, and intuitive to work with over trasitional laser glasses using a cheap FPV headset and mid-tier FPV cameras. 
 
 Image:
 
