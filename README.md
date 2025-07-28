@@ -11,6 +11,8 @@ In these cases, cameras are often utilized to safely work with the lasers, howev
 This project is a proof of concept for LaPL, Laser Passthrough Lenses that fully cover they eyes and use cameras mounted on a headset to stream POV video onto screen mounted near the eyes, similar to a VR headset. This uses FPV goggles and 3D printed mounts for both a head and wireless camera system, however a future version will use specifically designed housings, PCBs, and mounts. This project is simply to test whether a headset style laser goggle is comfortable, easy, and intuitive to work with over trasitional laser glasses using a cheap FPV headset and mid-tier FPV cameras. 
 
 Image:
+
+
 <img width="795" height="672" alt="image" src="https://github.com/user-attachments/assets/6aaf9ae8-063b-4795-ad73-c9b6d865b28b" />
 
 
