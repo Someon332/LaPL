@@ -7,7 +7,7 @@ Description: Passthrough goggles meant to make working with high powered lasers 
 
 Created at: 6/13/25
 
-Total Time: 9.5 hrs
+Total Time: 11 hrs
 
 6/13: 
 
@@ -61,4 +61,9 @@ The wireless camera mount model:
 Finished up the readme (procrastinated a bit too long on this...) and submitted this project for review! Also added a BOM and connections guide to the readme. 
 
 Time spent: ~1 hr
+
+7/31
+Added the battery and cameras to the 3D model (images are the same as the ones in the readme)
+
+Time spent: ~1.5 hr
 
