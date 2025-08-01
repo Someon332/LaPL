@@ -25,7 +25,7 @@ BOM:
 |WT03 VTX|$32.09|https://www.amazon.com/Wolfwhoop-Adjustable-Transmitter-Cloverleaf-Aircraft/dp/B06XB2ZRBP?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1738MU39IWURM&gQT=1|
 |LiPO|Already Own|N/A|
 |Wires|Already Own|N/A|
-
+|Battery Pack|Already Own|N/A|
 
 Prices with tax as of 7/28/25
 
