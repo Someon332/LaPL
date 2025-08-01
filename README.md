@@ -43,3 +43,8 @@ Prices with tax as of 7/28/25
 
 Connections:
 Connect a LiPO Battery to the wireless VTX and connect the wired camera to the RCA to AV adapter (yellow is data, black is ground, power camera seperately through red cable)
+
+
+Diagram for camera to adapter wiring (all other wiring is simply running power):
+<img width="1138" height="590" alt="image" src="https://github.com/user-attachments/assets/8907065e-de6d-42bd-9354-fa3d9d682484" />
+
