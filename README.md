@@ -11,7 +11,7 @@ In these cases, cameras are often utilized to safely work with the lasers, howev
 I made this project as a proof of concept for LaPL, Laser Passthrough Lenses that fully cover they eyes and use cameras mounted on a headset to stream POV video onto screen mounted near the eyes, similar to a VR headset. This uses FPV goggles and 3D printed mounts for both a head and wireless camera system, however a future version will use specifically designed housings, PCBs, and mounts. This project is simply to test whether a headset style laser goggle is comfortable, easy, and intuitive to work with over trasitional laser glasses using a cheap FPV headset and mid-tier FPV cameras. 
 
 
-Complete Setup:
+Complete Setup (straps not modeled):
 
 <img width="845" height="639" alt="image" src="https://github.com/user-attachments/assets/0650a664-bef4-4ded-a352-06ab0b59e2e1" />
 
@@ -47,4 +47,7 @@ Connect a LiPO Battery to the wireless VTX and connect the wired camera to the R
 
 Diagram for camera to adapter wiring (all other wiring is simply running power):
 <img width="1138" height="590" alt="image" src="https://github.com/user-attachments/assets/8907065e-de6d-42bd-9354-fa3d9d682484" />
+
+
+Note that there should be no software needed. The headset should be able to automatically display the camera feed once it is plugged in, or once the wireless module is powered and transmitting.
 
